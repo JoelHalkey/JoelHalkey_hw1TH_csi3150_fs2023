@@ -1,0 +1,2 @@
+This is to allow for GitHub to be able to view
+this folder since it would be empty otherwise
